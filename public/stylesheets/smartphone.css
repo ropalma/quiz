@@ -5,3 +5,4 @@ body 			 	{ background: #333; }
 h2 span, section h3 { display: none; }
 body 				{ font-size: xx-large; }
 footer, input 		{ font-size: large; }
+img#imagen 			{ display:block; margin: auto; width: 90%; max-width: 300px; height: 90%; max-height: 200px; padding: 5%;}

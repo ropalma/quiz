@@ -7,3 +7,4 @@ body 							{ font: 16px Georgia, serif; }
 section > div 					{ padding: 20px; }
 header, nav, section, footer 	{ background: #eee; text-align: center; }
 nav span 						{ margin: 0 10px 0 0;}
+img#imagen 						{ display:block; margin: auto; width: 90%; max-width: 300px; max-height: 200px; padding: 5%;}
